@@ -1,0 +1,24 @@
+p{
+    background-color: brown;
+    text-align: center;
+    line-height: 30px;
+    color: #000000;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: green;
+}
+button{
+    background-color: white;
+    color: blueviolet;
+}
